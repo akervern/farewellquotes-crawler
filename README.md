@@ -1,4 +1,4 @@
-# birthdaymessages-crawler
+# farewellquotes-crawler
 
 ## Overview
 
@@ -10,7 +10,7 @@ Sample usage:
 
 Full options:
 
-    Usage: unecartedevoeux-crawler.rb [options]
+    Usage: farewellquotes-crawler.rb [options]
     -u, --messages-url URL           The unecartedevoeux category url
     -s, --sosmessage-url URL         The sosmessage API url
     -c, --category-id CATEGORY_ID    The category id where to post the messages
